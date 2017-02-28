@@ -91,6 +91,7 @@ An ERD where the columns names and types are defined for each Entity.
 
 1. Have a problem set/scope
 
+--
 
 1. Identify Intrinsic characterisics that describe the entity in the most basic sense
 
@@ -108,7 +109,10 @@ An ERD where the columns names and types are defined for each Entity.
 
 ---
 
-## Identifying Attributes: Author
+## Identifying Attributes
+
+.center.larger[**Author & Published Work**]
+
 
 .center.larger[Problem: We're building an online authoring system.]
 
@@ -128,8 +132,9 @@ Authors need to be able to:
 
 ---
 
-## Identify Attributes: Author & Published Work
+## Identify Attributes
 
+.center.larger[**Author & Published Work**]
 
 .center.larger[Problem: We're building an online authoring system.]
 
