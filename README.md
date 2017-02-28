@@ -1,3 +1,3 @@
-# Lecture: Models to ERDS
+# Lecture: Models, Attributes & Code
 
 
