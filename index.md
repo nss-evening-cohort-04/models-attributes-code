@@ -194,6 +194,16 @@ Authors need to be able to:
 
 ---
 
+## Identify Attributes
+
+.center.larger[**Author & Published Work**]
+
+--
+
+.center.larger[Let's finish the other models]
+
+---
+
 class: center, middle
 
 ## Full Example: Trello
