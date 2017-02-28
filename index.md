@@ -87,7 +87,7 @@ An ERD where the columns names and types are defined for each Entity.
 
 ---
 
-## Attributes
+## Identifying Attributes
 
 1. Have a problem set/scope
 
@@ -142,7 +142,11 @@ Authors need to be able to:
 
 .center[![Full ERD](AuthorWorkCitationSSN.jpg)]
 
+---
 
+## Identify Attributes
+
+.center.larger[**Author & Published Work**]
 
 .center.larger[Problem: We're building an online authoring system.]
 
