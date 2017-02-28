@@ -132,7 +132,7 @@ Authors need to be able to:
 
 ---
 
-## Identify Attributes
+## Identifying Attributes
 
 .center.larger[**Author & Published Work**]
 
@@ -144,7 +144,7 @@ Authors need to be able to:
 
 ---
 
-## Identify Attributes
+## Identifying Attributes
 
 .center.larger[**Author & Published Work**]
 
@@ -156,7 +156,7 @@ Authors need to be able to:
 
 ---
 
-## Identify Attributes
+## Identifying Attributes
 
 .center.larger[**Author & Published Work**]
 
@@ -169,7 +169,7 @@ Authors need to be able to:
 
 ---
 
-## Identify Attributes
+## Identifying Attributes
 
 .center.larger[**Author & Published Work**]
 
@@ -185,7 +185,7 @@ Authors need to be able to:
 
 ---
 
-## Identify Attributes
+## Identifying Attributes
 
 .center.larger[**Author & Published Work**]
 
@@ -198,7 +198,7 @@ Authors need to be able to:
 
 ---
 
-## Identify Attributes
+## Identifying Attributes
 
 .center.larger[**Author & Published Work**]
 
